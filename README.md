@@ -9,3 +9,5 @@ Following functions are supported at the moment:
 * change Doctype to YOLO
 * add TONS of hashtags!
 
+find it here: http://quietkillah.github.io/Swagify/
+
