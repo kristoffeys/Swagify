@@ -44,6 +44,8 @@ javascript: (function () {
                     var word = text[i];
                     if(word.length > 1){
                         tmp += '#' + word + ' ';
+                    }else{
+                        tmp += word + ' ';
                     }
                 }
             }
