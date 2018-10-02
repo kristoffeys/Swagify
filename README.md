@@ -1,6 +1,8 @@
 Swagify
 =======
 
+Note: This project is ancient
+
 Swagify every page!
 
 Following functions are supported at the moment:
